@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Kelso!
-- I currently work as a Software Development Engineer at Yelo Ltd. and have an interest in Systems development and security!
-- 🐱‍👤 I have a BSc Hons. in Computing Science from Ulster University!
+- 🏢 I currently work as a Software Development Engineer at Yelo Ltd. and have an interest in Systems development and security!
+- 🎓 I have a BSc Hons. in Computing Science from Ulster University!
 - 📫 How to reach me, email: akelso2000@gmail.com
 
 <!---
